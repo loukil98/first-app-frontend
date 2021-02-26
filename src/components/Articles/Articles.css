@@ -1,0 +1,17 @@
+.imgHolder{
+    width: 300px;
+    height: 200px;
+}
+.mainContainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.namePrice{
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
